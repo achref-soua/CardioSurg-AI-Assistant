@@ -48,7 +48,7 @@ The system employs a **modular architecture** with the following components:
 ### Setup Instructions
 1. **Clone the repository**:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/achref-soua/CardioSurg-AI-Assistant>
 cd cardiac-surgery-assistant
 ```
 2. **Install dependencies**:
