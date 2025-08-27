@@ -137,5 +137,4 @@ st.divider()
 st.caption("""
 **Note**: This is a decision support tool. Always verify critical information with clinical guidelines and colleagues.
 The AI will automatically determine the appropriate surgical phase and information sources for your query.
-Mention patient IDs (e.g., P003) to get patient-specific responses.
 """)
