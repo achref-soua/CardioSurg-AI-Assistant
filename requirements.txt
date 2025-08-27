@@ -1,0 +1,10 @@
+# requirements.txt
+streamlit
+langchain
+langchain-groq
+langgraph
+chromadb
+transformers
+torch
+python-dotenv
+pydantic
